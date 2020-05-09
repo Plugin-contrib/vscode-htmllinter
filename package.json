@@ -8,8 +8,15 @@
     "vscode": "^1.41.0"
   },
   "categories": [
-    "Other"
+    "Linters"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anikethsaha/vscode-htmllinter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anikethsaha/vscode-htmllinter/issues"
+  },
   "activationEvents": [
     "onLanguage:html",
     "htmllinter.lint"
@@ -23,6 +30,11 @@
       }
     ]
   },
+  "keywords": [
+    "lint",
+    "html",
+    "markup"
+  ],
   "scripts": {
     "lint": "eslint .",
     "pretest": "yarn run lint",
