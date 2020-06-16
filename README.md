@@ -1,7 +1,12 @@
 # vscode-htmllinter
 
-`vscode` extension for `htmllinter`.
+> ### Work in progress
+
+`vscode` extension for [`htmllinter`](https://github.com/anikethsaha/htmllinter).
 
 ![preview](https://imgur.com/B5NSbMf.png)
 
-> ### Work in progress
+
+#### Author
+
+- [Aniketh](https://twitter.com/__ANIX__)
